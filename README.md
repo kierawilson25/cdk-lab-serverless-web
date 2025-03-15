@@ -1,5 +1,14 @@
 
-# Welcome to your CDK Python project!
+# Serverless Web project
+
+This project demonstrates how to use AWS CDK to create a serverless web application. Specifically, this project creates
+
+a Lambda function
+AWS API Gateway
+a HitCounter construct which creates a Dynamo DB table and a hitcount lambda function
+a hitcount lambda function and its code
+a DynamoDB table viewe
+
 
 This is a blank project for CDK development with Python.
 
